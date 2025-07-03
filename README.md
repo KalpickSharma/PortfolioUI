@@ -1,12 +1,6 @@
 # 🎨 Portfolio UI – Figma Design
 
 This repository contains the Figma UI design for my personal portfolio landing page.
-
-## 📄 Figma File
-
-🔗 `https://www.figma.com/file/YOUR-ID`   
-Make sure access is set to "Anyone with the link can view".
-
 ## 🖼️ Preview
 
 ![UI Preview](./designs/portfolio-preview.png)
