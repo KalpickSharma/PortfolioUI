@@ -1,0 +1,95 @@
+# Project Overview
+Project Name: SkyReach Portfolio UI
+
+Goal: To create a personal portfolio design template for developers, designers, or creators within a tech or creative community.
+
+Design Tool: Figma
+
+Focus Areas: Visual storytelling, minimal layout, aesthetic UI, accessibility
+
+# Objective
+As a beginner UI/UX designer, the goal of this project was to:
+
+Understand how to structure a personal portfolio website
+
+Practice information hierarchy, layout, and user flow
+
+Design a UI that is visually pleasing yet simple to implement
+
+Build something other community members can reuse and personalize
+
+# Target Audience
+Creative professionals (developers, designers, digital artists)
+
+Community members needing a personal site to showcase their identity and work
+
+First-time users who expect smooth navigation and quick scanning
+
+## Layout Breakdown
+1. Hero Section
+Bold typography with a soft lavender background
+
+Call-to-action: “View My Work”
+
+Visual interest: layered graphic composition
+
+Purpose: immediate personality + mission statement
+
+2. About & Services
+“Unlocking Creative Potential” headline
+
+Paired images and short descriptions
+
+Highlights: process, services, and approach
+
+CTA: Learn More
+
+3. Expertise
+Grid-based layout for skills
+
+Visual balance between left and right text/image alignment
+
+Encourages user trust by showcasing capabilities
+
+4. Gallery / Projects
+Masonry-style layout with captioned visuals
+
+Vivid yet minimal photography
+
+Highlights creative range in layout, color, and composition
+
+5. Contact CTA
+Simple scroll-to CTA with “Get in Touch”
+
+Final message: “Transforming Ideas into Reality”
+
+Encourages communication without overwhelming the user
+
+6. Footer
+Compact navigation
+
+Socials, links, and logo
+
+Balanced white space with neutral typography
+
+## Visual Choices
+Color Palette: Soft lavender, monochrome elements — evokes calm, creative energy
+
+Typography: Typewriter-style font (monospaced) paired with clean sans-serif — gives personality + readability
+
+Whitespace: Generous margins improve scannability
+
+Images: Carefully placed to emphasize visual storytelling
+
+// Responsiveness (Planned)
+While this is only a static design, I’ve followed a 12-column structure and used modular sections to ensure mobile-friendliness when implemented.
+
+// UX Considerations
+F-shaped reading pattern with left-heavy layout flow
+
+Clear CTAs at natural scroll intervals
+
+Use of repetition (structure, layout spacing) for cognitive ease
+
+Accessible color contrast and readable text blocks
+
