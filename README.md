@@ -2,8 +2,9 @@
 
 This repository contains the Figma UI design for my personal portfolio landing page.
 ## 🖼️ Preview
+![Portfolio Design](https://github.com/user-attachments/assets/e47d7e70-cf3a-406a-a0f5-3a156e7345b8)
 
-![UI Preview](./designs/portfolio-preview.png)
+
 
 ## 📝 Description
 
